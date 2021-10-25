@@ -1,20 +1,197 @@
 /* Medium Layout: 1280px. */
 @media only screen and (min-width: 991px) and (max-width: 1199px) {
-   
+    .mission-vission .mission-bg img {
+        margin-top: 70px;
+        margin-left: 34px;
+    }
 }
 
 
 /* Tablet Layout: 768px. */
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-   
+    .slider-part .carousel-inner h1 {
+        font-size: 60px;
+    }
+
+    .slider-part .carousel-inner h5 {
+        font-size: 25px;
+    }
+
+    .slider-part .carousel-inner a {
+        padding: 3px 31px;
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .carousel-indicators ul {
+        bottom: 220px;
+    }
+
+    .logo img {
+        width: 190px;
+        height: auto;
+        left: 9%;
+    }
+
+    .mission-vission .mission-bg img {
+        margin: 14%;
+        margin-top: 95px;
+    }
+
+    #registration-section .bg {
+        height: 285px;
+    }
 }
 
 
 /* Mobile Layout: 320px. */
 
 @media only screen and (max-width: 767px) {
-    
+    .slider-part .carousel-inner h1 {
+        font-size: 60px;
+    }
+
+    .slider-part .carousel-inner h5 {
+        font-size: 25px;
+    }
+
+    .slider-part .carousel-inner a {
+        padding: 5px 30px;
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .carousel-indicators ul {
+        bottom: 95px;
+    }
+
+    .logo img {
+        width: 110px;
+        padding: 2px 0px;
+    }
+
+    #guide-part h3 {
+        font-size: 25px;
+    }
+
+    #guide-part h2 {
+        font-size: 29px;
+    }
+
+    #guide-part a {
+        line-height: 23px;
+    }
+
+    #our-service h3 {
+        font-size: 35px;
+    }
+
+    #our-terget-sector h3 {
+        font-size: 35px;
+    }
+
+    #available-opportunities h3 {
+        font-size: 35px;
+    }
+
+    .business-partner h3 {
+        font-size: 35px;
+    }
+
+    #registration-section .sign-up h2 {
+        font-size: 35px;
+        line-height: 35px;
+    }
+
+    .service-details h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .service-details h6 {
+        font-size: 18px;
+    }
+
+    h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    #our-service h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    h4 {
+        font-size: 17px;
+    }
+
+    .big-line {
+        width: 200px;
+    }
+
+    .available-opportunities h3 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    .available-opportunities .header-content p {
+        margin-top: 10px;
+        font-size: 15px;
+    }
+
+    .newslatter h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .newslatter p {
+        font-size: 16px;
+    }
+
+    .project-banner h3 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .project-feature-3 .content {
+        overflow: scroll;
+    }
+
+    .project-feature-3 .content h1 {
+        line-height: 50px;
+        color: #B9B9B9;
+        overflow: hidden;
+        font-size: 45px;
+    }
+
+    .vision-projects h3 {
+        font-size: 21px;
+        line-height: 34px;
+    }
+
+    #registration-section .bg {
+        height: 230px;
+    }
+
+    .project-banner h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .trade-prompt h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    #registration-section .bg {
+        height: 285px;
+    }
+
+    .business-partner h3 {
+        font-size: 25px;
+    }
 
 }
 
@@ -22,24 +199,131 @@
 /* Wide Mobile Layout: 480px. */
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
+    .slider-part .carousel-inner h1 {
+        font-size: 40px;
+    }
 
+    .slider-part .carousel-inner h5 {
+        font-size: 20px;
+        line-height: 30px;
+    }
 
+    .slider-part .carousel-inner a {
+        padding: 5px 30px;
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .carousel-indicators ul {
+        bottom: 160px;
+    }
+
+    .logo img {
+        width: 110px;
+        padding: 2px 0px;
+    }
+
+    #guide-part a:last-child {
+        margin-left: 0;
+    }
 }
 
 
 @media only screen and (max-width: 576px) {
+    h2 {
+        font-size: 18px;
+    }
 
+    .available-opportunities h3 {
+        font-size: 18px;
+    }
 
+    .slider-part .carousel-inner h1 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .slider-part .carousel-inner h5 {
+        font-size: 18px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    .slider-part .carousel-inner a {
+        display: inline;
+    }
+
+    .carousel-indicators ul {
+        bottom: 95px;
+    }
+
+    #guide-part a:last-child {
+        margin-left: 0;
+    }
+
+    #our-terget-sector img {
+        width: 100%;
+    }
+
+    .mission-vission .mission-bg img {
+        margin-top: 80px;
+    }
+
+    .project-feature-3 .content {
+        margin: -8% auto;
+    }
 }
 
 
 @media only screen and (max-width: 490px) {
+    .carousel-indicators ul {
+        top: -170px;
+    }
 
+    .slider-part .carousel-inner .content {
+        padding-left: 25px;
+    }
 
+    .mission-vission .mission-bg img {
+        margin: 21%;
+        margin-top: 41px;
+    }
+
+    .mission-vission .vission-img img {
+        margin: 23%;
+        margin-top: 69px;
+    }
 }
 
 
 @media only screen and (max-width: 425px) {
 
+    p {
+        line-height: 19px;
+        font-size: 13px;
+    }
+    .carousel-indicators ul {
+        top: -140px;
+    }
+
+    .slider-part .carousel-inner .content {
+        padding-left: 0px;
+    }
+
+    .slider-part .carousel-inner h1 {
+        font-size: 22px;
+    }
+
+    .slider-part .carousel-inner h5 {
+        font-size: 15px;
+    }
+
+    .newslatter button {
+        padding: 7px 15px;
+    }
+
+    .mission-vission .mission-bg img {
+        margin-top: 80px;
+    }
 
 }

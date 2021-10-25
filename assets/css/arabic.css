@@ -1,3 +1,36 @@
-.menubar {
-    text-align: left;
+.service-details .card .card-body a::after {
+    height: 41.5px;
+    right: 151px;
+}
+
+.field-icon {
+    float: left;
+    right: -10px;
+}
+
+.services-page .card .card-body a::after {
+    height: 41.5px;
+    right: 151px;
+}
+
+#our-service .card .card-body a::after {
+    height: 41.5px;
+    right: 151px;
+}
+
+
+.slider-part .carousel-inner .content {
+    padding-right: 130px;
+}
+
+.carousel-indicators ul {
+    right: auto;
+    position: absolute;
+    bottom: 280px;
+    left: -50px;
+}
+
+.newslatter button {
+    right: auto;
+    left: 4px;
 }
